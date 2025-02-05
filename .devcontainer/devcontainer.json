@@ -17,7 +17,6 @@
     "customizations": {
       "codespaces": {
         "openFiles": [
-          "index.html",
           "README.md"
         ]
       },
