@@ -35,4 +35,6 @@ This repository is maintained by GitHub's Developer Relations team. If you have 
 
 ## License
 
-The content in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information. **TODO: Add a note about the license for the slides and how it differs from MIT.**
+The code in this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information. The content (including the PowerPoint deck and any other materials published as a release) are [released under CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The MIT license grant is not for GitHub's trademarks, which include the logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks.  GitHub® and its stylized versions and the Invertocat mark are GitHub's Trademarks or registered Trademarks. When using GitHub's logos, be sure to follow the GitHub logo guidelines.
