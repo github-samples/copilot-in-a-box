@@ -28,6 +28,7 @@ The following resources are useful for learning more about GitHub Copilot. Have 
 - [How to get started with GitHub Copilot Free in Visual Studio Code](https://www.youtube.com/watch?v=dMbOh114Vd4)
 - [Testing with GitHub Copilot](https://www.youtube.com/watch?v=smdBqEu7fx4)
 - [GitHub Copilot Chat and o1-preview: Building a maze generator!](https://www.youtube.com/watch?v=HxoCaobgg70)
+- [GitHub Copilot: the agent awakens](https://www.youtube.com/watch?v=C95drFKy4ss)
 
 ## Contributing
 
