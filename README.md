@@ -2,6 +2,8 @@
 
 This repository contains links to several sample projects, walkthroughs and videos that help you get started with GitHub Copilot.
 
+To get started with the Copilot in a Box materials, click on the [Releases](https://github.com/github-samples/copilot-in-a-box/releases) section of this repository. It should appear on the right hand side in full screen mode, or at the bottom of the page when viewing in a collapsed window or device with a smaller screen.
+
 ## Useful Resources
 
 The following resources are useful for learning more about GitHub Copilot. Have something to add? Please submit a pull request!
