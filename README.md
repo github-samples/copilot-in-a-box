@@ -10,6 +10,8 @@ The following resources are useful for learning more about GitHub Copilot. Have 
 
 - [How to write better prompts for GitHub Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
 - [Copilot Chat Cookbook](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
+- [How to refactor code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-refactor-code-with-github-copilot/)
+- [How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/)
 
 ### Samples
 
@@ -29,6 +31,8 @@ The following resources are useful for learning more about GitHub Copilot. Have 
 - [Testing with GitHub Copilot](https://www.youtube.com/watch?v=smdBqEu7fx4)
 - [GitHub Copilot Chat and o1-preview: Building a maze generator!](https://www.youtube.com/watch?v=HxoCaobgg70)
 - [GitHub Copilot: the agent awakens](https://www.youtube.com/watch?v=C95drFKy4ss)
+- [New GitHub Copilot code completion model: GPT-4o Copilot](https://www.youtube.com/watch?v=Oi_O6SZZWPc)
+- [Demo: Using Claude 3.7 Sonnet with GitHub Copilot](https://www.youtube.com/watch?v=LHVLyqc_WBM)
 
 ## Contributing
 
