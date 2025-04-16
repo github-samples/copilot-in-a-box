@@ -23,8 +23,7 @@ The following resources are useful for learning more about GitHub Copilot. Have 
 - [github-samples/pets-workshop](https://github.com/github-samples/pets-workshop)
   - Two versions of a workshop that can be used either:
     - 1h version that introduces the core capabilities of GitHub Copilot
-    - Full day version that introduces the wider GitHub platform including Codespaces, GitHub Advanced Security, GitHub Actions, as well as the core capabilities of GitHUb Copilot.
-
+    - Full day version that introduces the wider GitHub platform including Codespaces, GitHub Advanced Security, GitHub Actions, as well as the core capabilities of GitHub Copilot.
 ### Guides
 
 - [How to write better prompts for GitHub Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
