@@ -8,19 +8,29 @@ To get started with the Copilot in a Box materials, click on the [Releases](http
 
 The following resources are useful for learning more about GitHub Copilot. Have something to add? Please submit a pull request!
 
+### Samples
+
+- [skills/getting-started-with-github-copilot](https://github.com/skills/getting-started-with-github-copilot) (< 1hr)
+  - An exercise which introduces GitHub Copilot from the groundup. It includes a series of steps that help you learn about Code Completions, Chat and more.
+- [skills/integrate-mcp-with-copilot](https://github.com/skills/integrate-mcp-with-copilot) (< 1hr)
+  - An exercise which introduces GitHub Copilot Agent Mode and the concept of Model Context Protocol (MCP) servers.
+- [github-samples/game-of-life-walkthrough](https://github.com/github-samples/game-of-life-walkthrough) (< 1hr)
+  - A self-guided walkthrough that introduces GitHub Copilot (including Chat, Edits, Copilot instructions), leading up to a GitHub-themed Game of Life implementation on GitHub Pages.
+- [github-samples/copilot-hack](https://github.com/github-samples/copilot-hack)
+  - A set of challenges focused on GitHub Copilot. The challenges are more open-ended than the exercises in the other repositories, and are designed to encourage attendees to think through how they would use GitHub Copilot in their own projects.
+- [microsoft/CopilotHackathon](https://github.com/microsoft/CopilotHackathon)
+  - A library of GitHub Copilot challenges, including a variety of samples (NodeJS, .NET, Java, Data Scientists, Python Engineers).
+- [github-samples/pets-workshop](https://github.com/github-samples/pets-workshop)
+  - Two versions of a workshop that can be used either:
+    - 1h version that introduces the core capabilities of GitHub Copilot
+    - Full day version that introduces the wider GitHub platform including Codespaces, GitHub Advanced Security, GitHub Actions, as well as the core capabilities of GitHUb Copilot.
+
 ### Guides
 
 - [How to write better prompts for GitHub Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
 - [Copilot Chat Cookbook](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
 - [How to refactor code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-refactor-code-with-github-copilot/)
 - [How to debug code with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/)
-
-### Samples
-
-- [github-samples/game-of-life-walkthrough](https://docs.github.com/en/copilot/example-prompts-for-github-copilot-chat)
-- [github-samples/copilot-hack](https://github.com/github-samples/copilot-hack)
-- [microsoft/CopilotHackathon](https://github.com/microsoft/CopilotHackathon)
-- [github-samples/pets-workshop](https://github.com/github-samples/pets-workshop)
 
 ### Videos
 
